@@ -1,5 +1,5 @@
 # Scuttle AI Voice Assistant Robot
-
+▶️ Watch it in action
 Build kit: 👉 https://ScuttleRobot.org (Checkout Code: AVIVMAKES for 10% off!)
 
 A voice-controlled robot built on a Scuttle v3 wheeled base running on a Raspberry Pi 5, powered by OpenAI Whisper, GPT-4o, and Viam robotics platform.

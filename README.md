@@ -1,9 +1,13 @@
 # Scuttle AI Voice Assistant Robot
 ▶️ Watch it in action: https://www.youtube.com/shorts/xofZN5-Q8Ms
 
-A voice-controlled robot built on a Scuttle v3 wheeled base running on a Raspberry Pi 5, powered by OpenAI Whisper, GPT-4o, and Viam robotics platform.
+A voice-controlled robot w/ wheeled base running on a Raspberry Pi 5, powered by OpenAI Whisper, GPT-4o, and Viam
 
 ---
+<img width="400" alt="AI-ASSIST Robot" src="https://github.com/user-attachments/assets/cca05041-de30-493d-a6b1-5371abd12240" />
+
+<img width="400" alt="AI-ASSIST_Robot2" src="https://github.com/user-attachments/assets/e57b75c8-737e-4bca-9275-4da5a243deb6" />
+
 <img width="2931" height="4700" alt="AI_Assistant_Robot-System_Architecture" src="https://github.com/user-attachments/assets/61aaa4fd-c475-419d-8de0-61cf0cc57c73" />
 
 

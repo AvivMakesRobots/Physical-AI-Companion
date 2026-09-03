@@ -35,7 +35,9 @@ Build kit: 👉 https://ScuttleRobot.org (Checkout Code: AVIVMAKES for 10% off!)
 | AS5048B Magnetic Encoders (x2) |AS5048B-TS_EK_AB|
 
 ---
-
+📐 CAD
+---
+Onshape: https://cad.onshape.com/documents/fd72c2a0884de0f97a71ad78/w/36dc5bfd4ac25c82af6c05dd/e/c054cf515d8347937771a12e?renderMode=0&leftPanel=false&uiState=6a99c77bbb72967cd817a732
 ## 🔑 Credentials Needed
 
 Get these before starting — you'll need them during setup:

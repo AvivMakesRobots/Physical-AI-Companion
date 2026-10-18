@@ -21,7 +21,7 @@ except:
     pass
 
 # --- 2. CONFIGURATION ---
-# Use your your-openai-api-key-here... API key here
+# Use your sk-... API key here
 client = OpenAI(api_key='your-openai-api-key-here')
 WAKE_WORD = "robot"
 
